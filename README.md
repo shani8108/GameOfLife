@@ -8,3 +8,4 @@ the running speed of the game in seconds,
 choose the number of living cells at the starting point,
 set the walls alive by pressing 1 or 0 to prevent
 And you can watch the game with pleasure !!!
+Once the game recognizes that it has reached a static state or the board is emptied then the game announces game over
